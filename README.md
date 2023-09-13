@@ -6,7 +6,7 @@ Follow me:
 * [Mastodon @pvn@mas.to](https://mas.to/@pvn)
 
 ## 2023-09 The Lessons of Log4Shell: Preparing for the Next Zero Day
-* [Slides](https://github.com/pvnovarese/2023-09-lessons-of-log4shell/blob/main/2023-09_Lessons_of_Log4shell-DevOpsDays.pdf)
+* [Slides](https://github.com/pvnovarese/2023-09-lessons-of-log4shell/blob/main/2023-09_Lessons_of_Log4shell.pdf)
 * video (coming soon)
 
 ## 2023-02-05 Panel: SBOM Content, Usefulness, and Caveats (FOSDEM)
