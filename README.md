@@ -1,5 +1,9 @@
 # talks
-Collection of slides, links etc from conference talks
+## Collection of slides, links etc from conference talks.
+
+Follow me:
+* [LinkedIn Profile](https://www.linkedin.com/in/novarese/)
+* [Mastodon @pvn@mas.to](https://mas.to/@pvn)
 
 ## 2023-09 The Lessons of Log4Shell: Preparing for the Next Zero Day
 * slides (coming soon)
