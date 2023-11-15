@@ -6,7 +6,7 @@ Follow me:
 * [Mastodon @pvn@mas.to](https://mas.to/@pvn)
 
 ## 2023-11 The Legacy of Log4Shell: The Future of DevSecOps
-* [Slides](https://github.com/pvnovarese/2023-11-legacy-of-log4shell/blob/main/2023-11_Legacy_of_Log4shell.pptx)
+* [Slides](https://github.com/pvnovarese/2023-11-legacy-of-log4shell/blob/main/2023-11_Legacy_of_Log4shell.pdf)
 * Video (coming soon)
 
 ## 2023-09 The Lessons of Log4Shell: Preparing for the Next Zero Day
