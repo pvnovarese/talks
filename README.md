@@ -11,7 +11,7 @@ Follow me:
 
 ## 2023-09 The Lessons of Log4Shell: Preparing for the Next Zero Day
 * [Slides](https://github.com/pvnovarese/2023-09-lessons-of-log4shell/blob/main/2023-09_Lessons_of_Log4shell.pdf)
-* video (coming soon)
+* [Video](https://www.youtube.com/watch?t=23689&v=dOVi8s4PIxc&feature=youtu.be)
 
 ## 2023-02-05 Panel: SBOM Content, Usefulness, and Caveats (FOSDEM)
 * [Video](https://fosdem.org/2023/schedule/event/sbom_panel/)
