@@ -7,7 +7,8 @@ Follow me:
 
 ## 2024-04 The Legacy of Log4Shell: The Future of DevSecOps 
 * note: this is substantially different than the same-named talk from 2023-11 immediately below
-* [Slides](https://github.com/pvnovarese/2024-04-legacy-of-log4shell/blob/main/2024-04_Legacy_of_Log4shell.pdf)
+* [I think this link is broken? Slides](https://github.com/pvnovarese/2024-04-legacy-of-log4shell/blob/main/2024-04_Legacy_of_Log4shell.pdf)
+* [Slides](https://novarese.net/talks/2024-04_Legacy_of_Log4shell.pdf)
 * Video (soon?)
 
 ## 2023-11 The Legacy of Log4Shell: The Future of DevSecOps
