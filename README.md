@@ -5,6 +5,9 @@ Follow me:
 * [LinkedIn Profile](https://www.linkedin.com/in/novarese/)
 * [Mastodon @pvn@mas.to](https://mas.to/@pvn)
 
+## 2024-11 From log4j to xz
+* (coming soon)
+
 ## 2024-04 The Legacy of Log4Shell: The Future of DevSecOps 
 * note: this is substantially different than the same-named talk from 2023-11 immediately below
 * [I think this link is broken? Slides](https://github.com/pvnovarese/2024-04-legacy-of-log4shell/blob/main/2024-04_Legacy_of_Log4shell.pdf)
