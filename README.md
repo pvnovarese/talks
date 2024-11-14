@@ -7,6 +7,8 @@ Follow me:
 
 ## 2024-11 From log4j to xz
 * (coming soon)
+* [Slides](https://github.com/pvnovarese/2024-11-log4j-to-xz/blob/main/2024-11_From_Log4j_to_XZ.pdf)
+* Video (soon?)
 
 ## 2024-04 The Legacy of Log4Shell: The Future of DevSecOps 
 * note: this is substantially different than the same-named talk from 2023-11 immediately below
